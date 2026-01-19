@@ -26,7 +26,7 @@ function RouteComponent() {
         <code className="bg-gray-100 dark:text-black rounded-md px-1">
           useMemo
         </code>{" "}
-        hjälper dig optimera prestandan med hjälp av memoisation. Logiken inom{" "}
+        hjälper dig optimera prestandan med hjälp av memoisering. Logiken inom{" "}
         <code className="bg-gray-100 dark:text-black rounded-md px-1">
           useMemo
         </code>{" "}
